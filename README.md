@@ -2,7 +2,7 @@
 
 Fundamentos para machine learning (curso FLAI).
 
-O propósito aqui é apenas aprender a estrutura básica dos códigos que utilizam bibliotecas de classificação, regressão, clusterização, etc.
+O propósito aqui é apenas aprender a estrutura básica dos códigos de classificação, regressão, clusterização, etc.
 
 Originalmente criado em:
 
